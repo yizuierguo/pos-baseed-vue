@@ -1,0 +1,8 @@
+# Created by .ignore support plugin (hsz.mobi)
+.cache/
+node_modules/
+log/
+.DS_Store
+npm-debug.log
+.idea/
+.vscode

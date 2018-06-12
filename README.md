@@ -1,8 +1,12 @@
+# pos-baseed-vue
+一个基于vue的收银系统
 # pos:基于vue.js 2.0+的pos重构项目
 
 ## 前端环境相关:
 
 ``` bash
+# host更改
+127.0.0.1 dev.52shangou.com
 # install dependencies
 npm install
 
